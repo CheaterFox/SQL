@@ -1,3 +1,3 @@
 # Exercises
 
-There are some sql codes for practice
+There are some SQL codes for practice
